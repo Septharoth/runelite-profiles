@@ -1,0 +1,15 @@
+{
+  "setLoginIndexGarbageValue": 1,
+  "setLoginIndexMethodName": "ab",
+  "setLoginIndexClassName": "fe",
+  "jxSessionFieldName": "oy",
+  "jxSessionClassName": "ma",
+  "jxAccountIdFieldName": "og",
+  "jxAccountIdClassName": "fj",
+  "jxDisplayNameFieldName": "cy",
+  "jxDisplayNameClassName": "cy",
+  "jxAccountCheckFieldName": "fl",
+  "jxAccountCheckClassName": "client",
+  "jxLegacyValueFieldName": "ao",
+  "jxLegacyValueClassName": "wb"
+}
